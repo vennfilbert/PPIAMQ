@@ -1,0 +1,36 @@
+.navbar {
+    min-height: 90px;
+    text-size-adjust: 100%;
+}
+
+.jumbotron {
+	height: 400px;
+    margin: 50px 50px 50px 50px;
+}
+
+.carousel-item img {
+    height: 700px;
+    object-fit: cover;
+}
+
+section {
+    margin-top: 50px;
+    min-height: 420px;
+}
+
+.about {
+    padding: 50px 50px 50px 50px;
+    background-color: red;
+}
+
+.aboutdesc {
+    text-align: justify;
+}
+
+footer {
+    padding: 25px 50px 25px 50px;
+    background-color: #ea8a8a;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
